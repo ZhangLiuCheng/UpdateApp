@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1816450440/NDKROOT/delimiter=\:
+environment/project/com.android.toolchain.gcc.1816450440/NDKROOT/operation=replace
+environment/project/com.android.toolchain.gcc.1816450440/NDKROOT/value=/Users/sunyuqin/Library/Android/sdk/ndk-bundle
+environment/project/com.android.toolchain.gcc.1816450440/append=true
+environment/project/com.android.toolchain.gcc.1816450440/appendContributed=true
